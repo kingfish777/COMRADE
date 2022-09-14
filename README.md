@@ -29,4 +29,11 @@ COnfounders of Modifiable Risk factors for Alzheimer's disease and other DEmenti
  * C. Elizabeth Shaaban, PhD, MPH (asdf@pitt.edu)
  * Helmet T. Karim, PhD (asdf@pitt.edu)
 
+## Project description
+ * poster abstract
+ * COMRADE paper (draft)
+
+## Related projects
+ * 
+
 
